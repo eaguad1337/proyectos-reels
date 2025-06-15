@@ -1,12 +1,5 @@
 En este repositorio agrego los scripts y/o mini proyectos que subo a las redes sociales.
 
-## Ejemplos de Scripts
-- `any-all.py`
-- `decorator-simple.py`
-- `for_loop_primos.py`
-- `googlesheets.py`
-- `keylogger-demo.py`
-
 ## Mejores Prácticas
 Para una mejor gestión de las dependencias y para evitar conflictos entre las versiones de los paquetes, se recomienda utilizar entornos virtuales. Puedes crear un entorno virtual con `venv` (incluido en Python) o con `conda` si tienes Anaconda/Miniconda instalado.
 
@@ -48,21 +41,21 @@ Sigue las instrucciones de instalación para tu sistema operativo específico qu
 ## Descripción de los Scripts
 - `any-all.py`: Demuestra el uso de las funciones `any()` y `all()` en Python.
 - `decorator-simple.py`: Muestra un ejemplo de un decorador simple en Python.
-- `for_loop_primos.py`: Script que probablemente busca números primos utilizando un bucle `for`.
+- `for_loop_primos.py`: Script que busca números primos utilizando un bucle `for`.
 - `googlesheets.py`: Script para interactuar con Google Sheets.
-- `hadouken.py`: Nombre curioso, posiblemente un script divertido o de demostración.
-- `inference.py`: Script relacionado con inferencia, posiblemente en el contexto de machine learning o estadísticas.
-- `items.py`: Script que maneja 'items' o elementos, posiblemente una demo de estructuras de datos.
+- `hadouken.py`: Ejemplo de cómo indentar el código.
+- `inference.py`: Script relacionado con inferencia, en el contexto de machine learning o estadísticas.
+- `items.py`: Script que maneja 'items' o elementos, una demo de estructuras de datos.
 - `keylogger-demo.py`: Demostración de un keylogger, script para capturar pulsaciones de teclas.
 - `lambda-test.py`: Script para probar o demostrar el uso de funciones lambda en Python.
 - `ligatures.py`: Script relacionado con ligaduras tipográficas o de texto.
-- `long_num.py`: Script para trabajar con números largos o de alta precisión.
-- `loop-numeros.py`: Script que realiza algún tipo de bucle con números.
+- `long_num.py`: Truco para trabajar con números largos o de alta precisión.
+- `loop-numeros.py`: Demostración de bucle básico.
 - `mail-reader.py`: Script para leer correos electrónicos.
 - `map-test.py`: Script para probar o demostrar el uso de la función `map()` en Python.
-- `no_existe.py`: Script que posiblemente demuestra el manejo de archivos o rutas que no existen.
-- `reconocer.py`: Script de reconocimiento, posiblemente de imágenes, voz o patrones.
-- `scan.py`: Script para escanear algo, como puertos de red o archivos.
+- `no_existe.py`: Creación de "sitio web que no existe" usando un LLM.
+- `reconocer.py`: Demostración de cómo generar un reconocimiento de imágenes con un modelo de clasificación.
+- `scan.py`: Demostración de API mockup.
 - `socket-client.py`: Implementación de un cliente de socket para comunicaciones de red.
 - `socket-server.py`: Implementación de un servidor de socket para comunicaciones de red.
 - `threadingdemo.py`: Demostración del uso de hilos (`threading`) en Python.
